@@ -7,8 +7,12 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,github,git,bash,linux,vscode,vim,blender,ps,docker, nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,python,github,git,bash,linux,vscode,vim,blender,ps,docker" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css, js, nodejs,notion," />
+  </a>
+  
 </p>
 <p align="center">
   <a href='https://www.linkedin.com/in/k%C3%A9lcio-fragoso-6073ab25a/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
