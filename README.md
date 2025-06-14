@@ -1,6 +1,6 @@
 ## About me
 - Hello! I'm `Kélcio Fragoso`.
-- I studied Computer science in `High School`.
+- I studied computing in `High School`.
 - I'm currently studying at `42 Luanda`, doing the `Common Core (42 Cursus)` after completing the `C Piscine` (mainly in `C` and `Shell Script`).
 - My other areas of focus are `Learning Machine`, `Cybersecurity` and `Web & Mobile Development`.
 - Beside programming, my other interests are `Sports(Basketball, Football & martial arts)`, `Chess`, `Animes`, `Games` & `Movies/Series`.
